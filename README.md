@@ -1,4 +1,4 @@
-# Text-to-Speech WebSocket Starter for Node
+# Node Live Text-to-Speech Starter
 
 This example app demonstrates how to use the Deepgram Text-to-Speech API over WebSockets with Node.
 
