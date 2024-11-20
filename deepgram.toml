@@ -1,6 +1,6 @@
 [meta]
   title = "Node Live Text-to-Speech Starter"
-  description = "Starter repository for Deepgram Live Text-to-Speech in Flask"
+  description = "Get started using Deepgram's Live Text-to-Speech with this Node demo app"
   author = "Deepgram DX Team <devrel@deepgram.com> (https://developers.deepgram.com)"
   useCase = "TTS"
   language = "JavaScript"
